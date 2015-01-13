@@ -1,0 +1,6 @@
+C:\Users\GOSHEV\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07ReformatCShrapCode\bin\Debug\07ReformatCShrapCode.exe.config
+C:\Users\GOSHEV\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07ReformatCShrapCode\bin\Debug\07ReformatCShrapCode.exe
+C:\Users\GOSHEV\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07ReformatCShrapCode\bin\Debug\07ReformatCShrapCode.pdb
+C:\Users\GOSHEV\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07ReformatCShrapCode\obj\Debug\07ReformatCShrapCode.csprojResolveAssemblyReference.cache
+C:\Users\GOSHEV\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07ReformatCShrapCode\obj\Debug\07ReformatCShrapCode.exe
+C:\Users\GOSHEV\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\07ReformatCShrapCode\obj\Debug\07ReformatCShrapCode.pdb
